@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Smart Delivery/Smart Delivery.vcxproj" Id="cdb20405-b08e-4d8c-beec-a596e195b1f4" />
+</Solution>
